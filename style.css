@@ -1,0 +1,42 @@
+body{
+    font-family: 'Glory', sans-serif;
+    font-size: 15px;
+}
+.content{
+    color: black;
+}
+
+.container {
+    width: 1440px;
+
+}
+
+.main-navigation {
+ 
+    display: flex;
+    justify-content: flex-between;
+}
+
+.main-header {
+    margin-bottom: 100px;
+    width: 1160px;
+    height: 186px;
+    background-color: #f7e296;
+margin-left: auto;
+margin-right: auto;
+margin-top: 40px;
+ 
+}
+
+.user-navigation {
+
+    margin: auto;
+    padding: auto;
+    list-style-type: none;
+display: inline-block;
+    color: black;
+    }
+    .catalog {
+        display: inline;
+
+    }
